@@ -1,12 +1,12 @@
 {
-  "name": "mpociot/documentarian",
-  "description": "",
+  "name": "pronabsen/mpociot-documentarian",
+  "description": "https://github.com/pronabsen/mpociot-documentarian",
   "keywords": [],
   "license": "Apache 2",
   "authors": [
     {
-      "name": "Marcel Pociot",
-      "email": "m.pociot@gmail.com"
+         "name": "PSG",
+            "email": "psg@gmail.com"
     }
   ],
   "autoload": {
