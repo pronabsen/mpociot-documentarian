@@ -1,13 +1,18 @@
 {
   "name": "pronabsen/mpociot-documentarian",
-  "description": "https://github.com/pronabsen/mpociot-documentarian",
-  "keywords": [],
-  "license": "Apache 2",
+  "license": "MIT",
+  "description": "Generate beautiful API documentation from your Laravel application",
+  "keywords": [
+      "API",
+      "Documentation",
+      "Laravel"
+  ],
+  "homepage": "https://github.com/pronabsen/mpociot-documentarian",
   "authors": [
-    {
-         "name": "PSG",
-            "email": "psg@gmail.com"
-    }
+      {
+          "name": "PSG",
+          "email": "psg@gmail.com"
+      }
   ],
   "autoload": {
     "files": [
